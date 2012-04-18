@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdt4100/!svn/ver/528/anonymous/trunk/ovinger/tests/oving6
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tdt4100/!svn/ver/528/anonymous/trunk/ovinger/tests/oving6/AllTests.java
+END
+AccountOverviewTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tdt4100/!svn/ver/528/anonymous/trunk/ovinger/tests/oving6/AccountOverviewTest.java
+END
+CreditAccountTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tdt4100/!svn/ver/528/anonymous/trunk/ovinger/tests/oving6/CreditAccountTest.java
+END
+SavingsAccountTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tdt4100/!svn/ver/528/anonymous/trunk/ovinger/tests/oving6/SavingsAccountTest.java
+END
+CardTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tdt4100/!svn/ver/528/anonymous/trunk/ovinger/tests/oving6/CardTest.java
+END

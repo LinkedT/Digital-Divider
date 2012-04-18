@@ -1,0 +1,49 @@
+<eResourceEntry  timestamp='1328088015442' resUri='platform:/resource/ovinger/jex/ov3.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1328088434293' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@javaElements.0/@classes.6' key='junit test launch' value='AllTests'/>
+<eObjectEntry  timestamp='1328088749324' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.0/@requirements.0/@requirements.5' key='junit test launch' value='testIsMotherOf'/>
+<eObjectEntry  timestamp='1328088753624' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.0/@requirements.0/@requirements.5' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1328088785054' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.0/@requirements.0/@requirements.5' key='junit test launch' value='testIsMotherOf'/>
+<eObjectEntry  timestamp='1328088785584' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.0/@requirements.0/@requirements.5' key='test run status' value='false'/>
+<eResourceEntry  timestamp='1328093582144' resUri='platform:/resource/ovinger/jex/ov3.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1328093608149' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.0/@requirements.0/@requirements.5' key='junit test launch' value='testIsMotherOf'/>
+<eObjectEntry  timestamp='1328093610435' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.0/@requirements.0/@requirements.5' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1328093619571' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.0/@requirements.0/@requirements.7' key='junit test launch' value='testIsFatherOf'/>
+<eObjectEntry  timestamp='1328093620006' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.0/@requirements.0/@requirements.7' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1328093723502' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.0/@requirements.0/@requirements.9' key='junit test launch' value='testIsSiblingOf'/>
+<eObjectEntry  timestamp='1328093723900' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.0/@requirements.0/@requirements.9' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1328095103752' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.0/@requirements.0/@requirements.9' key='junit test launch' value='testIsSiblingOf'/>
+<eObjectEntry  timestamp='1328095104188' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.0/@requirements.0/@requirements.9' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1328095255691' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.0/@requirements.0/@requirements.9' key='junit test launch' value='testIsSiblingOf'/>
+<eObjectEntry  timestamp='1328095256063' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.0/@requirements.0/@requirements.9' key='test run status' value='true'/>
+<eResourceEntry  timestamp='1328513536779' resUri='platform:/resource/ovinger/jex/ov3.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1328513592628' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.1/@requirements.4' key='junit test launch' value='testGetCard'/>
+<eObjectEntry  timestamp='1328513593217' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.1/@requirements.4' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1328513602260' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.1/@requirements.2' key='junit test launch' value='testInit'/>
+<eObjectEntry  timestamp='1328513602652' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.1/@requirements.2' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1328534153160' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.1/@requirements.2' key='junit test launch' value='testInit'/>
+<eObjectEntry  timestamp='1328534153814' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.1/@requirements.2' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1328534166044' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.1/@requirements.2' key='junit test launch' value='testInit'/>
+<eObjectEntry  timestamp='1328534166704' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.1/@requirements.2' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1328534303215' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.1/@requirements.4' key='junit test launch' value='testGetCard'/>
+<eObjectEntry  timestamp='1328534305865' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.1/@requirements.4' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1328535281001' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.0/@requirements.3' key='junit test launch' value='testToString'/>
+<eObjectEntry  timestamp='1328535281491' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.0/@requirements.3' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1328535438311' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.0/@requirements.3' key='junit test launch' value='testToString'/>
+<eObjectEntry  timestamp='1328535438773' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.0/@requirements.3' key='test run status' value='false'/>
+<eResourceEntry  timestamp='1328606121508' resUri='platform:/resource/ovinger/jex/ov3.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1328606348086' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.0/@requirements.3' key='junit test launch' value='testToString'/>
+<eObjectEntry  timestamp='1328606348491' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.0/@requirements.3' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1328606484613' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.0/@requirements.3' key='junit test launch' value='testToString'/>
+<eObjectEntry  timestamp='1328606487171' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.0/@requirements.3' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1328606531711' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.0/@requirements.3' key='junit test launch' value='testToString'/>
+<eObjectEntry  timestamp='1328606532176' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.0/@requirements.3' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1328606580348' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.1/@requirements.2' key='junit test launch' value='testInit'/>
+<eObjectEntry  timestamp='1328606580933' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.1/@requirements.2' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1328606587112' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.1/@requirements.4' key='junit test launch' value='testGetCard'/>
+<eObjectEntry  timestamp='1328606587581' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.2/@requirements.1/@requirements.4' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1328800918446' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.0/@requirements.0/@requirements.5' key='junit test launch' value='testIsMotherOf'/>
+<eObjectEntry  timestamp='1328800919113' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.0/@requirements.0/@requirements.5' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1328800922069' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.0/@requirements.0/@requirements.7' key='junit test launch' value='testIsFatherOf'/>
+<eObjectEntry  timestamp='1328800923602' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.0/@requirements.0/@requirements.7' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1328800927781' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.0/@requirements.0/@requirements.9' key='junit test launch' value='testIsSiblingOf'/>
+<eObjectEntry  timestamp='1328800929270' resUri='platform:/resource/ovinger/jex/ov3.jex' fragmentId='//@requirements.0/@requirements.0/@requirements.9' key='test run status' value='true'/>
